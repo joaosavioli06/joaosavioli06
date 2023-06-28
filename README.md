@@ -22,7 +22,7 @@ I am a person who is always studying with the goal of gaining more knowledge in 
 
 ### Contact
 
-📱 - ([15991634476](https://wa.me/5514991631695)
+📱 - [15991634476](https://wa.me/5515991634476)
 
 📧 - joaosavioli06@gmail.com
 

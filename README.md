@@ -1,6 +1,6 @@
 ### Hey! I'm João Gabriel 🖐️
 
-[![Website](https://img.shields.io/website?label=joaosavioli06.github.io.com&style=for-the-badge&url=https://joaosavioli06.github.io)](https://joaosavioli06.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-savioli/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosavioli06@gmail.com)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![Website](https://img.shields.io/website?label=joaosavioli06.github.io.com&style=for-the-badge&url=https://joaosavioli06.github.io)](https://joaosavioli06.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-savioli/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosavioli06@gmail.com)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosavioli06&show_icons=true&theme=tokyonight&count_private=true)
 

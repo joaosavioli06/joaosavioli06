@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=joaosavioli06.github.io.com&style=for-the-badge&url=https://joaosavioli06.github.io)](https://joaosavioli06.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-savioli/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosavioli06@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosavioli06&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosavioli06&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosavioli06&layout=donut)](https://github.com/joaosavioli06/github-readme-stats)
 
 ### Technologies that I am studying and have used in projects / Have some knowledge
 

@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=joaosavioli06.github.io.com&style=for-the-badge&url=https://joaosavioli06.github.io)](https://joaosavioli06.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-savioli/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosavioli06@gmail.com)
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=joaosavioli06&show_icons=true&card_width=270px&hide_rank=true&theme=dark" height="190px">
+  <img src = "https://github-readme-stats.vercel.app/api?username=joaosavioli06&show_icons=true&card_width=270px&rank_icon=github&theme=dark" height="190px">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaosavioli06&theme=dark&layout=compact" height="190px" >
 </p>
 

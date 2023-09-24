@@ -1,40 +1,12 @@
-##  Hey! I'm João Gabriel 🙂👋
+<h1 align="center"> Hey! I'm João Gabriel S. </h1>
+<h2 align="center"> A person who is always studying with the goal of gaining more knowledge in programming </h2>
 
-[![Website](https://img.shields.io/website?label=joaosavioli06.github.io.com&style=for-the-badge&url=https://joaosavioli06.github.io)](https://joaosavioli06.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-gabriel-savioli/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosavioli06@gmail.com)
+- 👦 17 years old
+- ✏️ Technical Student at Senac Sorocaba
+- 🖥️ Personal website: [joaosavioli06.github.io](joaosavioli06.github.io)
+- 🎓 Want to start System Analysis and Development next year
+- 👨🏻‍💻 Love learning new things
 
-## About me
-
-I am a person who is always studying with the goal of gaining more knowledge in programming. I have a lot to see and study, but I know that in time I will succeed. Feel free to see my projects in the repositories. 
-
-<br>
-
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=joaosavioli06&show_icons=true&card_width=270px&rank_icon=github&theme=dark" height="190px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joaosavioli06&theme=dark&layout=compact" height="190px" >
-</p>
-
-## Technologies and tools that I am currently studying && used in my past projects. 
-
-<div style ="display: inline_block" >
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="VS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="VS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div> 
-
-<br>
-
-
-
-## Contact
-
-📱  - [15991634476](https://wa.me/5515991634476)
-
-📧 - joaosavioli06@gmail.com
-
-
+## Want to get in touch with me? 
+<a href="https://linkedin.com/in/joaogabrielsavioli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaogabrielsavioli" height="30" width="40" /></a>
+<a href="https://discord.gg/savioli_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="savioli_06" height="30" width="40" /></a>

@@ -37,7 +37,14 @@
 
 ###
 
-<p align="left">👦 17 years old<br>✏️ Technical Student at Senac Sorocaba<br>🖥️ Personal website: joaosavioli06.github.io<br>🎓 Want to start System Analysis and Development next year<br>👨🏻‍💻 Love learning new things</p>
+<p align="left">👦 17 years old<br>✏️ Technical Student at Senac Sorocaba<br>🎓 Want to start System Analysis and Development next year<br>👨🏻‍💻 Love learning new things </p>
+
+###
+
+<h3 align="left"> 🖥 My Projects </h3> 
+<a href="joaosavioli06.github.io"> Personal Website </a> <br>
+<a href="https://joaosavioli06.github.io/garotos_da_programacao/"> Final Year School Project</a> <br>
+<a href="joaosavioli06.github.io">  </a> 
 
 ###
 

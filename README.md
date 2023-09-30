@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">👦 17 years old<br>✏️ Technical Student at Senac Sorocaba<br>-🖥️ Personal website: joaosavioli06.github.io<br>🎓 Want to start System Analysis and Development next year<br>👨🏻‍💻 Love learning new things</p>
+<p align="left">👦 17 years old<br>✏️ Technical Student at Senac Sorocaba<br>🖥️ Personal website: joaosavioli06.github.io<br>🎓 Want to start System Analysis and Development next year<br>👨🏻‍💻 Love learning new things</p>
 
 ###
 

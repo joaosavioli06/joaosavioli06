@@ -26,15 +26,24 @@
 
 ###
 
-<h1 align="center">Hey! I'm João Gabriel S.</h1>
+<h1 align="center">Hey! I'm João Gabriel S.</h1> <br> 
 
 ###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">👦 17 years old<br>✏️ Technical Student at Senac Sorocaba<br>🎓 Want to start System Analysis and Development next year<br>👨🏻‍💻 Love learning new things </p>
+<p align="left">
+👦 17 years old<br>
+✏️ Technical Student at Senac Sorocaba<br>
+🎓 Want to start System Analysis and Development next year<br> 
+🌱 I’m currently learning JavaScript and how an API works <br>
+🎯 Want to learn Database and Backend concepts in the future <br>
+😄 Feel free to get in touch with me! <br>
+
+</p>
 
 ###
 

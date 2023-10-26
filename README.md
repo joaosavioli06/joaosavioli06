@@ -41,7 +41,8 @@
 <h3 align="left"> 🖥 My Projects </h3> 
 <a href="joaosavioli06.github.io"> Personal Website </a> <br>
 <a href="https://joaosavioli06.github.io/garotos_da_programacao/"> Final Year School Project</a> <br>
-<a href="joaosavioli06.github.io">  </a> 
+<a href="https://joaosavioli06.github.io/dev-python-web/"> Python Web Development Website </a> <br>
+<a href="joaosavioli06.github.io/math-website/"> Math Website </a> <br>
 
 ###
 
@@ -73,12 +74,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Top Languages :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaosavioli06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosavioli06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
 </div>
 
 ###

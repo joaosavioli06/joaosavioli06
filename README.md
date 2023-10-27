@@ -21,10 +21,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaosavioli06.joaosavioli06&"  />
+  <img src="https://profile-counter.glitch.me/joaosavioli06/count.svg?"  />
 </div>
-
-###
 
 <h1 align="center">Hey! I'm João Gabriel S.</h1> <br> 
 

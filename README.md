@@ -46,7 +46,7 @@
 ###
 
 <h3 align="left"> 🖥 My Projects </h3> 
-<a href="joaosavioli06.github.io" target="blank"> Personal Website </a> <br>
+<a href="joaosavioli06.github.io" target="_blank"> Personal Website </a> <br>
 <a href="https://joaosavioli06.github.io/garotos_da_programacao/"> Final Year School Project</a> <br>
 <a href="https://joaosavioli06.github.io/dev-python-web/"> Python Web Development Website </a> <br>
 <a href="joaosavioli06.github.io/math-website/"> Math Website </a> <br>

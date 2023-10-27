@@ -52,6 +52,7 @@
 <a href="https://joaosavioli06.github.io/garotos_da_programacao/"> Final Year School Project</a> <br>
 <a href="https://joaosavioli06.github.io/dev-python-web/"> Python Web Development Website </a> <br>
 <a href="joaosavioli06.github.io/math-website/"> Math Website </a> <br>
+<a href="https://github.com/joaosavioli06/API"> My First JS API </a> <br>
 
 ###
 

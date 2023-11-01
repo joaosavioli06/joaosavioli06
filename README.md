@@ -18,11 +18,6 @@
  
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/joaosavioli06/count.svg?"  />
-</div>
 
 <h1 align="center">Hey! I'm João Gabriel S.</h1> <br> 
 

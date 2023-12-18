@@ -30,8 +30,8 @@
 
 <p align="left">
 👦 17 years old<br>
-✏️ Technical Student at Senac Sorocaba<br>
-🎓 Want to start System Analysis and Development next year<br> 
+✏️ Undegraduate student at Facens, studying System Analysis and Development<br>
+🎓 Graduated with a technical degree in IT from Senac Sorocaba. <br> 
 🌱 I’m currently learning JavaScript and how an API works <br>
 🎯 Want to learn Database and Backend concepts in the future <br>
 😄 Feel free to get in touch with me! <br>

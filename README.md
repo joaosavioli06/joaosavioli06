@@ -31,8 +31,8 @@
 👦 17 years old<br>
 ✏️ Undegraduate student at Facens, studying System Analysis and Development<br>
 🎓 Graduated with a technical degree in IT from Senac Sorocaba. <br> 
-🌱 I’m currently learning JavaScript and how an API works <br>
-🎯 Want to learn Database and Backend concepts in the future <br>
+🌱 I’m currently learning JavaScript, Database and how an API works <br>
+🎯 Want to learn Backend concepts in the future <br>
 😄 Feel free to get in touch with me! <br>
 
 </p>

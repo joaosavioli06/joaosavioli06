@@ -25,6 +25,7 @@
 
 <p align="left">
 👦 17 years old<br>
+💼 IT Trainee at Toyota Boshoku do Brasil <br>
 ✏️ Undegraduate student at Facens, studying System Analysis and Development<br>
 🎓 Graduated with a technical degree in IT from Senac Sorocaba. <br> 
 🌱 I’m currently learning JavaScript, Database and how an API works <br>
@@ -70,10 +71,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   
-  
-  
-  
-   
 </div>
 
 ###

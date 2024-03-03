@@ -24,12 +24,11 @@
 ###
 
 <p align="left">
-👦 17 years old<br>
+👦 18 years old<br>
 💼 IT Trainee at Toyota Boshoku do Brasil <br>
 ✏️ Undegraduate student at Facens, studying System Analysis and Development<br>
 🎓 Graduated with a technical degree in IT from Senac Sorocaba. <br> 
-🌱 I’m currently learning JavaScript, Database and how an API works <br>
-🎯 Want to learn Backend concepts in the future <br>
+🎯 Want to learn Backend concepts <br>
 😄 Feel free to get in touch with me! <br>
 
 </p>
